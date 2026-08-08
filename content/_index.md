@@ -25,9 +25,9 @@ You can add a **/top4** page to your personal website as a lightweight and engag
 
 ## Add or remove your /top4 page?
 
-If you have an account on GitHub, please [follow the steps](https://github.com/Top-Four/topfour.net) in the readme. If not, or if you run into any issues, feel free to [reach out](mailto:hi@topfour.net) to me.
+If you have an account on GitHub, please [follow the steps](https://github.com/peterspath-net/topfour.net) in the readme. If not, or if you run into any issues, feel free to [reach out](mailto:hi@topfour.net) to me.
 
-If for any reason you wish to remove your **/top4** page from the directory, you can follow the [same steps](https://github.com/Top-Four/topfour.net) from the readme, but instead of *adding* a new line to data file, *delete* your respective line from the data file.
+If for any reason you wish to remove your **/top4** page from the directory, you can follow the [same steps](https://github.com/peterspath-net/topfour.net) from the readme, but instead of *adding* a new line to data file, *delete* your respective line from the data file.
 
 Only Pull Requests made by the same GitHub user that originally *added* the line to the data file will be merged, i.e. please do not request deletions on behalf of someone else.
 
